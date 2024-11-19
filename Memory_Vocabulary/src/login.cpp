@@ -3,7 +3,8 @@
 using namespace std;
 int user_num = 0;
 User new_user[MaxSize] = {};
-
+//StrangeBook strangeBook;
+Memory* memoryPtr = &strangeBook;
 void login(){
     int mode = 0;
     bool flag = false;
@@ -106,7 +107,7 @@ void save_userfile(){
 
 void memory_login(){
     int mode = 0;
-    Memory memory;
+    //Memory memory;
     cout << "--------------------------" << endl;
     cout << "    Select memory vocabulary mode:    " << endl;
     cout << "     1.Inorder memory:      " << endl;
@@ -120,8 +121,14 @@ void memory_login(){
     cin.ignore();
     switch (mode) {
         case 1:{
-            memory.InorderMemory();
+            memoryPtr->Memory::InorderMemory();
             break;
         }
+        case 2:{
+            memoryPtr->Memory::DisorderMemory();
+
+            break;
+        }
+
     }
 }

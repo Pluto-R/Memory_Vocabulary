@@ -845,7 +845,7 @@ curve n. 曲线；弯
 cushion n. 垫子，坐垫，靠垫
 custom n. 习惯，风俗；海关
 customer n. 顾客，主顾
-cycle n自行车，循环
+cycle n. 自行车，循环
 daily n. 日报
 daily a. 每日的
 dairy n. 牛奶场；乳制品
@@ -858,7 +858,7 @@ daring a. 大胆的，勇敢的
 darling n. 亲爱的人；宠儿
 dash n. 猛冲
 dash vt. 使猛撞；溅
-data n. 数据; 资料
+data n. 数据；资料
 dawn vi. 破晓
 dawn n. 黎明；开端
 deadly a. 致命的，死一般的
@@ -3132,7 +3132,7 @@ restless a. 不安定的，焦虑的
 restore vt. 恢复；归还；修补
 restrain vt. 抑制，遏制；限制
 restraint n. 抑制；遏制；克制
-restrict vt限制，限定，约束
+restrict vt. 限制，限定，约束
 restriction n. 限制，限定，约束
 result vi. 发生，结果
 result n. 成果

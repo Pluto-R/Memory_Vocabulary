@@ -2,6 +2,7 @@
 #define MEMORY_VOCABULARY_LOGIN_H
 #define MaxSize 20
 #include <head.h>
+#include <memory.h>
 extern int user_num;
 
 class User{
